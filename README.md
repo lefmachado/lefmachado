@@ -26,7 +26,6 @@ Aqui estão alguns dos meus projetos em andamento ou concluídos:
 
 ## Vamos nos conectar!
 
-- 🌐 [Meu Site Pessoal](https://www.leandromachado.tech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-ferreira-machado-7b161927b/)
 
 ---

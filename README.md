@@ -4,8 +4,12 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um grande entusiasta de tecnologia e
 
 ## Sobre mim
 
-- 🎓 Engenheiro Metalúrgico e de Materiais, com pós-graduação em Ciência de Dados e Otimização de Sistemas.
 - 🎓 Graduando em Ciência da Computação.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduado em Engenharia Metalúrgica e de Materiais - UFMG .
+- 🎓 Pós-graduado em Otimização de Sistemas - UFMG
+- 🎓 Pós-graduado (especialização) em Ciência de Dados - UFOP
+
 - 💡 Interesses: Desenvolvimento de software, análise de dados, otimização de processos, inteligência artificial e automação.
 
 ## Tecnologias e Ferramentas

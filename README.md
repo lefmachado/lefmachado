@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um grande entusiasta de tecnologia e venh
 
 Aqui estão alguns dos projetos em que trabalhei ou estou desenvolvendo:
 
-- [**Sistema de Previsão de Qualidade na Sinterização**]([#](https://www.monografias.ufop.br/handle/35400000/5813))  
+- [**Sistema de Previsão de Qualidade na Sinterização**](https://www.monografias.ufop.br/handle/35400000/5813)
   Desenvolvimento de uma aplicação utilizando algoritmos de machine learning para prever a qualidade no processo de sinterização.
 
 - [**CafeApp - Loja Digital**](#)  

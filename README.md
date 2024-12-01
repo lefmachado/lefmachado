@@ -1,38 +1,58 @@
 # Olá! 👋 Eu sou o Leandro Machado
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um grande entusiasta de tecnologia e venho me especializando e aprofundando bastante os estudos nessa área, especialmente no desenvolvimento de software.
+Bem-vindo ao meu perfil no GitHub! Sou um grande entusiasta de tecnologia e venho me especializando e aprofundando bastante os estudos nessa área, especialmente no desenvolvimento de software.
 
-## Sobre mim
+## Sobre Mim
 
-- 🎓 Graduando em Ciência da Computação.
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 🎓 Graduado em Engenharia Metalúrgica e de Materiais - UFMG .
-- 🎓 Pós-graduado em Otimização de Sistemas - UFMG
-- 🎓 Pós-graduado (especialização) em Ciência de Dados - UFOP
+- 🎓 **Formações Acadêmicas:**
+  - Graduando em Ciência da Computação.
+  - Graduado em Análise e Desenvolvimento de Sistemas.
+  - Graduado em Engenharia Metalúrgica e de Materiais (UFMG).
+  - Pós-graduado em Otimização de Sistemas (UFMG).
+  - Pós-graduado em Ciência de Dados (UFOP).
 
-- 💡 Interesses: Desenvolvimento de software, análise de dados, otimização de processos, inteligência artificial e automação.
+- 💡 **Áreas de Interesse:** Desenvolvimento de software, análise de dados, otimização de processos, inteligência artificial e automação.
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens:** Python, Java, JavaScript
-- **Frameworks:** Django, Angular, Spring Boot
-- **Ferramentas DevOps:** Docker, Kubernetes, NGINX, Git
+### **Front-end:**
+- **Linguagem:** HTML, CSS, JavaScript, TypeScript
+- **Framework:** Angular
+
+### **Back-end:**
+- **Linguagens:** Java, Python
+- **Frameworks:** Spring Boot, Quarkus, Django, Flask
 - **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
-- **Metodologias:** Agile (Scrum), Kanban, CI/CD
-- **Bibliotecas de Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **Bibliotecas de Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn
+
+### **DevOps:**
+- **Ferramentas:** Docker, Kubernetes, NGINX, Git
+
+### **Machine Learning:**
+- **Bibliotecas:** Scikit-learn, TensorFlow, Keras, PyTorch
+
+### **Análise de Dados:**
+- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn
+
+### **Metodologias:**
+- Agile (Scrum), Kanban, CI/CD
 
 ## Projetos Recentes
 
-Aqui estão alguns dos meus projetos em andamento ou concluídos:
+Aqui estão alguns dos projetos em que trabalhei ou estou desenvolvendo:
 
-- [Sistema de Previsão de Qualidade de Sinterização](#) - Aplicação de algoritmos de machine learning para prever a qualidade no processo de sinterização.
+- [**Sistema de Previsão de Qualidade na Sinterização**](#)  
+  Desenvolvimento de uma aplicação utilizando algoritmos de machine learning para prever a qualidade no processo de sinterização.
 
-## Vamos nos conectar!
+- [**CafeApp - Loja Digital**](#)  
+  Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs de pagamento.
+
+## Conecte-se Comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-ferreira-machado-7b161927b/)
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos.
+⭐️ Obrigado por visitar meu perfil! Explore meus repositórios e projetos, e fique à vontade para entrar em contato. 😊
+
+---
 

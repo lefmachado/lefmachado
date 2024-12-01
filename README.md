@@ -46,6 +46,9 @@ Aqui estão alguns dos projetos em que trabalhei ou estou desenvolvendo:
 - [**CafeApp - Loja Digital**](https://github.com/lefmachado/CafeWeb-Fullstack)  
   Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs.
 
+- [**Modelo de Programação Linear para Otimizar o Consumo de Matérias-Primas em Altos-Fornos**](https://repositorio.ufmg.br/handle/1843/ESBF-ANBJHL?locale=pt_BR).     
+  Desenvolvimento de um modelo de programação linear para reduzir custos de matérias-primas mantendo a estabilidade operacional em altos-fornos.
+
 ## Conecte-se Comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandro-ferreira-machado-7b161927b/)

@@ -44,7 +44,7 @@ Aqui estão alguns dos projetos em que trabalhei ou estou desenvolvendo:
   Desenvolvimento de uma aplicação utilizando algoritmos de machine learning para prever a qualidade no processo de sinterização.
 
 - [**CafeApp - Loja Digital**](https://github.com/lefmachado/CafeWeb-Fullstack)  
-  Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs de pagamento.
+  Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs.
 
 ## Conecte-se Comigo
 

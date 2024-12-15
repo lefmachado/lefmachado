@@ -43,11 +43,11 @@ Aqui estão alguns dos projetos em que trabalhei ou estou desenvolvendo:
 - [**Sistema de Previsão de Qualidade na Sinterização**](https://www.monografias.ufop.br/handle/35400000/5813)  
   Desenvolvimento de uma aplicação utilizando algoritmos de machine learning para prever a qualidade no processo de sinterização.
 
-- [**CafeApp - Loja Digital**](https://github.com/lefmachado/CafeWeb-Fullstack)  
-  Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs.
-
 - [**Modelo de Programação Linear para Otimizar o Consumo de Matérias-Primas em Altos-Fornos**](https://repositorio.ufmg.br/handle/1843/ESBF-ANBJHL?locale=pt_BR).     
   Desenvolvimento de um modelo de programação linear para reduzir custos de matérias-primas mantendo a estabilidade operacional em altos-fornos.
+
+- [**CafeApp - Loja Digital**](https://github.com/lefmachado/CafeWeb-Fullstack)  
+  Sistema para gerenciamento de uma cafeteria gourmet, incluindo funcionalidades de carrinho, checkout e integração com APIs.  
 
 ## Conecte-se Comigo
 

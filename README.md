@@ -16,7 +16,7 @@ Além disso, desenvolvi experiência prática na área de **machine learning**, 
   - Pós-graduado em Otimização de Sistemas (UFMG).
   - Pós-graduado em Ciência de Dados (UFOP).
 
-- 💡 **Áreas de Interesse:** Desenvolvimento de software, análise de dados, otimização de processos, inteligência artificial, modernização de sistemas legados.
+- 💡 **Áreas de Interesse:** Arquitetura e desenvolvimento de software para modernização de sistemas críticos; engenharia de dados e desenvolvimento de modelos de Machine Learning, desde a criação de pipelines até a otimização de processos de negócio; gestão, performance e escalabilidade de bancos de dados complexos; implementação de cultura DevOps com práticas ágeis e ferramentas de CI/CD.
 
 ## Tecnologias e Ferramentas
 
@@ -33,7 +33,7 @@ Além disso, desenvolvi experiência prática na área de **machine learning**, 
 - **Ferramentas e Scripts:** JCL (Job Control Language)
 
 ### **Modernização de Sistemas Legados:**
-- Transformação de sistemas COBOL para arquiteturas modernas utilizando Java, microserviços e Quarkus.
+- Transformação de sistemas legados em ambiente mainframe para arquiteturas modernas utilizando Java, microserviços e Quarkus.
 - Desenvolvimento de APIs RESTful para integração e modernização de funcionalidades.
 
 ### **Machine Learning:**
@@ -41,7 +41,7 @@ Além disso, desenvolvi experiência prática na área de **machine learning**, 
 - **Experiência:** Desenvolvimento de modelos de machine learning aplicados à previsão de qualidade de processos, otimização de operações industriais e análise de dados.
 
 ### **DevOps:**
-- **Ferramentas:** Docker, Kubernetes, NGINX, Git
+- **Ferramentas:** Docker, Kubernetes, NGINX, Git, Azure DevOps.
 
 ### **Análise de Dados:**
 - **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn

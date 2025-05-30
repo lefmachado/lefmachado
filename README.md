@@ -11,7 +11,7 @@ Além disso, desenvolvi experiência prática na área de **machine learning**, 
 ## Sobre Mim
 
 - 🎓 **Formações Acadêmicas:**
-  - Graduando em Ciência da Computação.
+  - Graduado em Ciência da Computação.
   - Graduado em Engenharia Metalúrgica e de Materiais (UFMG).
   - Pós-graduado em Otimização de Sistemas (UFMG).
   - Pós-graduado em Ciência de Dados (UFOP).

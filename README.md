@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou um grande entusiasta de tecnologia e venho me especializando e aprofundando bastante os estudos nessa área, especialmente no desenvolvimento de software.
 
-Atualmente trabalho principalmente com a **modernização de sistemas baseados em legados**, realizando a transformação de aplicações desenvolvidas em **COBOL** em arquiteturas modernas utilizando **Java**, **Quarkus**, **microserviços** e **APIs RESTful**.
+Atualmente trabalho principalmente com a **modernização de sistemas legados**, atuando na transformação de aplicações tradicionais em arquiteturas modernas utilizando **Java**, **Quarkus**, **microserviços** e **APIs RESTful**.
 
 Tenho ampla experiência na área de **engenharia industrial**, com ênfase em **siderurgia**, abrangendo melhoria de processos e layouts produtivos, modelagem matemática, planejamento da produção, análise de dados de processos, sistemas de gestão, simulação de processos, análise de custos e viabilidade econômico-financeira. Possuo também sólida vivência nas áreas de **sinterização** e **altos-fornos**.
 

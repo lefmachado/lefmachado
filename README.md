@@ -6,6 +6,8 @@ Atualmente, atuo como **Assessor de Tecnologia da Informação no Banco do Brasi
 
 Minha trajetória profissional foi construída com uma base sólida na área de **engenharia industrial e siderurgia** (com passagem pela Usiminas), atuando em melhoria de processos, modelagem matemática e simulação. Foi nesse cenário que consolidei minha base em análise de dados e resolução de problemas complexos. Hoje, trago toda essa bagagem analítica para o setor financeiro, com uma atuação tecnológica multidisciplinar. Meu trabalho é fortemente voltado para a engenharia de software — desenvolvendo aplicações completas — e, em conjunto a essas frentes, dedico-me à exploração e integração de **IA Generativa** para modernizar processos, automatizar rotinas e impulsionar a inovação dentro do ecossistema do banco.
 
+
+
 ## 🚀 Sobre Mim
 
 🎓 **Formações Acadêmicas:**
@@ -20,6 +22,7 @@ Minha trajetória profissional foi construída com uma base sólida na área de 
 * Ecossistema Java/Quarkus e desenvolvimento front-end com Angular.
 * IA Generativa e integração de IA corporativa (Agentes, Model Context Protocol - MCP, Copilot).
 * Engenharia de dados e processos analíticos complexos.
+
 
 
 ## 💻 Tecnologias e Ferramentas
@@ -46,6 +49,7 @@ Minha trajetória profissional foi construída com uma base sólida na área de 
 * **Práticas:** Agile (Scrum), Kanban, CI/CD.
 
 
+
 ## 🛠️ Atuação Profissional e Projetos em Destaque
 
 Minha atuação no desenvolvimento de soluções e modernização abrange:
@@ -65,9 +69,11 @@ Desenvolvimento de uma aplicação utilizando algoritmos de machine learning par
 Desenvolvimento de um modelo de programação linear para reduzir custos de matérias-primas mantendo a estabilidade operacional.
 
 
+
 ## ⚡ Além do Código
 
 Quando não estou focado em arquitetura de sistemas ou debugando código, você provavelmente me encontrará praticando guitarra, focado em dominar os riffs de heavy metal e hard rock de bandas como Deep Purple, Led Zeppelin e outras lendas do rock. 🎸
+
 
 
 ## 🌐 Conecte-se Comigo

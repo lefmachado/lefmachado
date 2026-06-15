@@ -63,7 +63,7 @@ Desenvolvimento de um modelo de programação linear para reduzir custos de mat�
 
 ## ⚡ Além do Código
 
-Quando não estou focado em arquitetura de sistemas ou debugando código, você provavelmente me encontrará praticando guitarra, focado em dominar os riffs de heavy metal de bandas como Deep Purple, Led Zeppelin e Queen. 🎸
+Quando não estou focado em arquitetura de sistemas ou debugando código, você provavelmente me encontrará praticando guitarra, focado em dominar os riffs de heavy metal e hard rock de bandas como Deep Purple, Led Zeppelin e outras lendas do rock. 🎸
 
 ## 🌐 Conecte-se Comigo
 

@@ -8,19 +8,18 @@ Minha trajetória profissional foi construída com uma base sólida na área de 
 
 ## 🚀 Sobre Mim
 
-* 🎓 **Formações Acadêmicas:**
+🎓 **Formações Acadêmicas:**
 * Graduado em Ciência da Computação.
 * Graduado em Engenharia Metalúrgica e de Materiais (UFMG).
 * Pós-graduado em Otimização de Sistemas (UFMG).
 * Pós-graduado em Ciência de Dados (UFOP).
 
 
-* 💡 **Áreas de Interesse:**
+💡 **Áreas de Interesse:**
 * Arquitetura e desenvolvimento de aplicações para sistemas financeiros críticos.
 * Ecossistema Java/Quarkus e desenvolvimento front-end com Angular.
 * IA Generativa e integração de IA corporativa (Agentes, Model Context Protocol - MCP, Copilot).
 * Engenharia de dados e processos analíticos complexos.
-
 
 
 ## 💻 Tecnologias e Ferramentas
@@ -46,24 +45,30 @@ Minha trajetória profissional foi construída com uma base sólida na área de 
 * **Ferramentas:** Docker, Kubernetes, NGINX, Git, Azure DevOps.
 * **Práticas:** Agile (Scrum), Kanban, CI/CD.
 
+
 ## 🛠️ Atuação Profissional e Projetos em Destaque
 
 Minha atuação no desenvolvimento de soluções e modernização abrange:
 
 * 🏦 **Modernização de Core Bancário e Arquitetura de Microsserviços:** Atuação focada no desenvolvimento e na migração de aplicações legadas (mainframe) para arquiteturas modernas, garantindo alta disponibilidade e escalabilidade. Construção de APIs e microsserviços utilizando **Java** e **Quarkus** para processamento de alto volume de transações.
+  
 * 🖥️ **Aplicações Modernas para o Setor Financeiro:** Desenvolvimento de aplicações web robustas e responsivas utilizando **Angular**, focando na melhoria contínua da experiência de uso e na eficiência operacional das ferramentas bancárias.
+  
 * 🤖 **IA Generativa, Agentes e Automação de Processos:** Integração de recursos avançados de Inteligência Artificial aos ecossistemas Java do banco. Criação de fluxos de trabalho com agentes inteligentes (incluindo o uso de servidores MCP) para otimizar rotinas internas, melhorar a tomada de decisão e modernizar os processos de negócio.
 
 **Projetos Acadêmicos e de Engenharia Industrial:**
 
 * **[Sistema de Previsão de Qualidade na Sinterização](https://www.monografias.ufop.br/handle/35400000/5813)**
 Desenvolvimento de uma aplicação utilizando algoritmos de machine learning para prever a qualidade no processo de sinterização.
+
 * **[Modelo de Programação Linear para Otimizar o Consumo de Matérias-Primas em Altos-Fornos](https://repositorio.ufmg.br/handle/1843/ESBF-ANBJHL?locale=pt_BR)**
 Desenvolvimento de um modelo de programação linear para reduzir custos de matérias-primas mantendo a estabilidade operacional.
+
 
 ## ⚡ Além do Código
 
 Quando não estou focado em arquitetura de sistemas ou debugando código, você provavelmente me encontrará praticando guitarra, focado em dominar os riffs de heavy metal e hard rock de bandas como Deep Purple, Led Zeppelin e outras lendas do rock. 🎸
+
 
 ## 🌐 Conecte-se Comigo
 
